@@ -239,6 +239,7 @@ export default {
     this.type = this.$route.query.type?this.$route.query.type:''
   },
   methods:{
+    //1111
     setupNext(){
       this.guide++;
     },
